@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 
 /**
  * Repository untuk menyimpan dan mengelola semua ScheduleItem.
- * Konsep OOP: Encapsulation, Generic Collection (ArrayList<T>), Observer Pattern, File Persistence
+ * Konsep OOP: Encapsulation, Generic Collection (ArrayList<T>)
  */
 public class PlannerRepository {
 
