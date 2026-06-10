@@ -1,0 +1,7 @@
+TODO|Buat class diagram UML|2026-06-10|Sebelum mulai coding|false|MEDIUM
+TODO|Push code ke GitHub|2026-06-12|Commit semua perubahan|false|HIGH
+EVENT|Presentasi PBO Kelompok|2026-06-11|Persiapan 5 menit|09:00|Ruang B101
+TODO|Review materi Polimorfisme|2026-06-14|Baca slide P07|false|MEDIUM
+EVENT|UAS Pemrograman Berorientasi Objek|2026-06-27|Bawa kartu ujian|08:00|Gedung C
+TODO|Finalisasi laporan PBO|2026-06-26|Format PDF|false|HIGH
+TODO|Tugas MBD|2026-06-17||false|MEDIUM
